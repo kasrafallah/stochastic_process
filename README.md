@@ -18,8 +18,12 @@ In the second semester of 2021 - 2022, I took "Stochastic Process" course, which
  #### Detection problem of photons (detection problem)
  #### random walk simulation in Matlab
  
- ### third project
+### third project
  #### white whale rescue mission (using an adaptive filter for detection problem)
  #### prediction problem using distribution ergodic properties 
-
+ 
+<p align="center">
+<image align="center" src = "images/whitewhale.jpg" width="500">
+</p>
+ 
  
