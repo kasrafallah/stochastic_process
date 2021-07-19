@@ -23,9 +23,10 @@ In the second semester of 2021 - 2022, I took "Stochastic Process" course, which
 <p align="center">
 <image align="center" src = "images/randomwalk.png" width="300">
 </p> 
+
 ### third project
- #### white whale rescue mission (using an adaptive filter for detection problem)
- #### prediction problem using distribution ergodic properties 
+#### white whale rescue mission (using an adaptive filter for detection problem)
+#### prediction problem using distribution ergodic properties 
  
 <p align="center">
 <image align="center" src = "images/whitewhale.jpg" width="300">
