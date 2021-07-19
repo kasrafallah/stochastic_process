@@ -10,20 +10,25 @@ In the second semester of 2021 - 2022, I took "Stochastic Process" course, which
  
 ### first project 
  #### introduction to MA, ARMA, AR discrete stochastic process
- #### implementing Simple Exponential Smoothing (SES) algorithm 
- 
+ #### implementing Simple Exponential Smoothing (SES) algorithm
+<p align="center">
+<image align="center" src = "images/ses.png" width="300">
+</p> 
+
  
 ### second project
  #### traffic shaping and traffic management using exponential models
  #### Detection problem of photons (detection problem)
  #### random walk simulation in Matlab
- 
+<p align="center">
+<image align="center" src = "images/randomwalk.png" width="300">
+</p> 
 ### third project
  #### white whale rescue mission (using an adaptive filter for detection problem)
  #### prediction problem using distribution ergodic properties 
  
 <p align="center">
-<image align="center" src = "images/whitewhale.jpg" width="500">
+<image align="center" src = "images/whitewhale.jpg" width="300">
 </p>
  
  
