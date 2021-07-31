@@ -8,18 +8,22 @@ In the second semester of 2021 - 2022, I took "Stochastic Process" course, which
 ## Project titles
  
  
-### first project 
- #### introduction to MA, ARMA, AR discrete stochastic process
- #### implementing Simple Exponential Smoothing (SES) algorithm
+- ### [first project](https://github.com/kasrafallah/stochastic_process/tree/main/project1)
+ 
+ 
+   #### [introduction to MA, ARMA, AR discrete stochastic process](https://github.com/kasrafallah/stochastic_process/blob/main/project1/Hw01_q1.m)
+   #### [implementing Simple Exponential Smoothing (SES) algorithm](https://github.com/kasrafallah/stochastic_process/blob/main/project1/Hw01_q2.m)
+ 
+ 
 <p align="center">
 <image align="center" src = "images/ses.png" width="300">
 </p> 
 
  
-### second project
- #### traffic shaping and traffic management using exponential models
- #### Detection problem of photons (detection problem)
- #### random walk simulation in Matlab
+- ### [second project](https://github.com/kasrafallah/stochastic_process/tree/main/project2)
+   #### [traffic shaping and traffic management using exponential models](https://github.com/kasrafallah/stochastic_process/blob/main/project2/Q1.m)
+   #### [Detection problem of photons (detection problem)](https://github.com/kasrafallah/stochastic_process/blob/main/project2/Q2.m)
+   #### [random walk simulation in Matlab](https://github.com/kasrafallah/stochastic_process/blob/main/project2/Q3.m)
 <p align="center">
 <image align="center" src = "images/randomwalk.png" width="300">
 </p> 
