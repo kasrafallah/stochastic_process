@@ -29,8 +29,8 @@ In the second semester of 2021 - 2022, I took "Stochastic Process" course, which
 </p> 
 
 - ### [third project](https://github.com/kasrafallah/stochastic_process/tree/main/project3)
-#### [white whale rescue mission (using an adaptive filter for detection problem)](https://github.com/kasrafallah/stochastic_process/blob/main/project3/Q1.m)
-####  [prediction problem using distribution ergodic properties](https://github.com/kasrafallah/stochastic_process/blob/main/project3/Q2.m)
+   #### [white whale rescue mission (using an adaptive filter for detection problem)](https://github.com/kasrafallah/stochastic_process/blob/main/project3/Q1.m)
+   ####  [prediction problem using distribution ergodic properties](https://github.com/kasrafallah/stochastic_process/blob/main/project3/Q2.m)
  
 <p align="center">
 <image align="center" src = "images/whitewhale.jpg" width="300">
